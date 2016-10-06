@@ -7,7 +7,7 @@ var annualLeave = 30
 var BobRemainingDays = 12
 var AliceRemainingDays = 28
 var TomRemainingDays = 19
-var average = your_answer
+var average = ((30*3)-(12+28+19))/3
 
 exports.average = average
 exports.annualLeave = annualLeave
